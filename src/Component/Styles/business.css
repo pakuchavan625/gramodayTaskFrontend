@@ -1,0 +1,213 @@
+.business-container{
+    width:60%;
+    height: 50vh;
+    margin: auto;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.business-navabar{
+  
+    height: auto;
+    position: fixed;
+    width: 60%;
+
+}
+
+
+.tab-design{
+    background-color: white!important;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.business{
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-bottom: 5px solid red;
+}
+
+.review{
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.title-agent{
+    font-size: 20px;
+    margin-top: 10px;
+    color:  #01a39d;
+    font-weight: bold;
+}
+
+.detail-of-market{
+    margin-left: 20px;
+    line-height: 3;
+    margin-bottom: 15px;
+}
+
+.location{
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.shop-detail{
+    margin-left:30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.shop-number{
+    margin-left:15px;
+    font-size: 18px;
+    font-weight: bold;
+ 
+}
+
+.product-detail{
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(187, 185, 185);
+    color: black;
+    padding: 10px;
+ }
+
+ .product-items{
+    width:100% ;
+    height: 240px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    /* box-shadow: 20px 20px 10px 20px #888888; */
+    margin-top: 10px;
+   
+
+ }
+
+ .product-img{
+    width: 100px;
+    height: 140px;
+    border: 1px solid red;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+
+ }
+
+ .product-description{
+    margin-top: 20px;
+    line-height: 2;
+ }
+
+ .mandi-name{
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ .mandi-price{
+    font-weight: bold;
+ }
+ .dot-log{
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-size: 30px;
+    cursor: pointer;
+ }
+ 
+ .date-upadte{
+    margin-top: 60%;
+ }
+
+ .horizonatl-line{
+    font-size: 100px;
+    font-weight: bold;
+ }
+ .button-groups{
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .btn-share {
+    background-color: #01a39d;
+    padding: 3px;
+    border-radius: 15px;
+    color: white;
+
+ }
+
+ .btn-interested{
+    background-color: rgb(192, 192, 70);
+    padding: 3px;
+    border-radius: 15px;
+    color: white;
+
+ }
+
+
+ .footer-content{
+    width: 50%;
+    height: auto;
+    /* border: 1px solid red; */
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 5px;
+    color: blue;
+    padding: 5px;
+    background-color: rgb(245, 245, 245);
+
+ }
+
+
+/* 
+.business-ttitle{
+    font-size: 20px;
+    font-size: bold;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+
+.review-title{
+    font-size: 20px;
+    font-size: bold;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+.Agent-wrapper{
+    width: 100%;
+    height: 30vh;
+}
+.Agent-titel{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color:  #01a39d;
+}
+
+.agent-details{
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+
+.agent-details-name{
+    font-size: 20px;
+
+}
+
+.agent-market-place{
+    font-size: 20px;
+    font-size: bold;
+    margin-left: 30px;
+    color: black    ;
+} */

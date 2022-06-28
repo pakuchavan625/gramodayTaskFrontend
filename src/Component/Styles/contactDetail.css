@@ -1,0 +1,77 @@
+.contact-detail-container{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: flex;
+}
+
+.proile-pc{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 50%;
+    margin: 30px 0px 0px 30px;
+    text-align: center;
+}
+
+.profile-icon{
+    margin: auto;
+    font-size: 79px;
+    color: whitesmoke;
+    
+}
+
+.btn-buttons{
+    border-radius: 20px;
+    background-color: rgb(1, 163, 157);
+}
+
+.share-button{
+   position: relative;
+   left: 39%;
+}
+
+.popup-wrapper{
+    width: 100%;
+    height: auto;
+
+}
+
+.popup-heading{
+   display: flex;
+    background-color:  #01a39d ;
+    width: 100%;
+    height: auto;
+    font-size: 25px;
+    color: white;
+    padding: 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cancel-icon{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.playStore{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.buttonForPlaystore{
+    display: flex;
+    justify-content: flex-end;
+    color: bisque;
+    
+}
+
+.btn-playstore{
+    background-color:#01a39d ;
+    font-size: 25px;
+color: white;
+width: 100px;
+margin-right: 10px;
+
+}

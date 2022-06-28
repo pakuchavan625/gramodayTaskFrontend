@@ -1,0 +1,44 @@
+.nav{
+     background: linear-gradient(to top, #cc66ff 0%, #6600ff 100%);
+}
+
+.header{
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    margin: auto;
+}
+
+.logo{
+    color: white;
+    font-size: 45px;  
+    cursor: pointer;
+}
+
+
+.language-wrapper{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.choose-language-heading{
+    font-weight:bold;
+    margin-bottom: 20px;
+}
+
+.langauge-name{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: green;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.style-langauge{
+    margin-top: 3px;
+    font-size: 20px;
+    font-weight: bold;
+}
